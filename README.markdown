@@ -1,5 +1,7 @@
 == Welcome to Rails
 
+This is the sample application for Bob's Ruby on Rails learning project using the Ruby on Rails Tutroial
+
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
